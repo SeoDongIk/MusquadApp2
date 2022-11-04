@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/formation"
+    app:startDestination="@id/formation343Fragment">
+
+    <fragment
+        android:id="@+id/formation343Fragment"
+        android:name="com.example.androidbasic_musquad2.Formation343Fragment"
+        android:label="Formation343Fragment" >
+        <action
+            android:id="@+id/action_formation343Fragment_to_formation4231Fragment"
+            app:destination="@id/formation4231Fragment" />
+        <action
+            android:id="@+id/action_formation343Fragment_to_formation433Fragment"
+            app:destination="@id/formation433Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/formation4231Fragment"
+        android:name="com.example.androidbasic_musquad2.Formation4231Fragment"
+        android:label="Formation4231Fragment" >
+        <action
+            android:id="@+id/action_formation4231Fragment_to_formation433Fragment"
+            app:destination="@id/formation433Fragment" />
+        <action
+            android:id="@+id/action_formation4231Fragment_to_formation343Fragment"
+            app:destination="@id/formation343Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/formation433Fragment"
+        android:name="com.example.androidbasic_musquad2.Formation433Fragment"
+        android:label="Formation433Fragment" >
+        <action
+            android:id="@+id/action_formation433Fragment_to_formation4231Fragment"
+            app:destination="@id/formation4231Fragment" />
+        <action
+            android:id="@+id/action_formation433Fragment_to_formation343Fragment"
+            app:destination="@id/formation343Fragment" />
+    </fragment>
+</navigation>

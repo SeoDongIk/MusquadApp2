@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149025146938",
+    "project_id": "musquad-82b96",
+    "storage_bucket": "musquad-82b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149025146938:android:4f6b2f457381d5810dcd03",
+        "android_client_info": {
+          "package_name": "com.example.androidbasic_musquad2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149025146938-vhu5kkncblmgaodfd5ha3g5f6v0bukb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAewU3GGv5QCem29fGtSoeULil_c53zpOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149025146938-vhu5kkncblmgaodfd5ha3g5f6v0bukb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

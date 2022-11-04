@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/ground"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/st343"
+        android:layout_width="78dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/cardlayout1"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/lf343"
+        android:layout_width="78dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="76dp"
+        android:background="@drawable/cardlayout1"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.201"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/rf343"
+        android:layout_width="78dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="76dp"
+        android:background="@drawable/cardlayout1"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.828"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/lm343"
+        android:layout_width="78dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="264dp"
+        android:background="@drawable/cardlayout1"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.03"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/lcm343"
+        android:layout_width="78dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="264dp"
+        android:background="@drawable/cardlayout1"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.354"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/rcm343"
+        android:layout_width="78dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="264dp"
+        android:background="@drawable/cardlayout1"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.651"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/rm343"
+        android:layout_width="78dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="264dp"
+        android:background="@drawable/cardlayout1"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.951"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/lcb343"
+        android:layout_width="78dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="412dp"
+        android:background="@drawable/cardlayout1"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.201"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/cb343"
+        android:layout_width="78dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="472dp"
+        android:background="@drawable/cardlayout1"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toTopOf="@+id/gk343"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageButton
+        android:id="@+id/rcb343"
+        android:layout_width="78dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="412dp"
+        android:background="@drawable/cardlayout1"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.828"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageButton
+        android:id="@+id/gk343"
+        android:layout_width="78dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="592dp"
+        android:background="@drawable/cardlayout1"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
